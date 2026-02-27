@@ -1,5 +1,4 @@
 # Self-propagating worm🪱
-## a little more complex than mitosis, still fun to watch nonetheless
 This project involves the exploitation of a simulated web server using a worm. The project holds similarity to a real world incident known as the [SAMY computor worm](https://en.wikipedia.org/wiki/Samy_(computer_worm)) involving an attack featuring a Cross-Site Scripting (XSS) worm on the networking platform MySpace. Think of this project as a crude copy of this case, still cool nonetheless.  
 This project demonstrates innovation, programming skills and knowledge on the exploitation of vulnerable web servers  
 
